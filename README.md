@@ -4,10 +4,15 @@ This project aims to visualize academic and registration activities on a sample 
 
 ![Alt text](Image/Preview.png)
 
+## Business Question
+1. What are the trends of student registration over time?
+2. Does Female studends lack in registering the program?
+3. How are the registered students distributed accross the country?
+4. What are the career aspiration they have?
 
-## Data
+## DataSet
 
-The data is stored in the `data` folder.
+The data is stored in the `data` folder. Its also publicly available in Bangladesh Primary Education
 
 ## Code
 
