@@ -2,7 +2,7 @@
 
 This project aims to visualize academic and registration activities in IPEMIS. It is built using the Python, SQL and Tableau framework and template.
 
-![Alt text](images/preview.png)
+![Alt text](Image/Preview.png)
 
 
 ## Data
