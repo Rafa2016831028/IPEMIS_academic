@@ -1,19 +1,20 @@
+
 # IPEMIS_academic
 
 # Project Background
 The Directorate of Primary Education (DPE), Bangladesh has launched and implemented a software system, namely Integrated Primary Education Management Information System (IPEMIS) to provide quality education for all children in Bangladesh. 
 
-The [IPEMIS](https://ipemis.dpe.gov.bd/) system has significant amounts of data on user records, administrative efforts, operational efficiency, and governance data that has been previously underutilized. 
-This project thoroughly analyzes and synthesizes the data of an IPEMIS Couching program  in order to uncover critical insight that will improve IPEMIS data-driven decisions on different administrative and governance aspects.
+The [IPEMIS](https://ipemis.dpe.gov.bd/) system has significant amounts of data on student records, administrative efforts, operational efficiency, and governance data that has been previously underutilized. 
+This project thoroughly analyzes and synthesizes the data of an **IPEMIS Talent Hunt Program** in order to uncover critical insight that will improve IPEMIS data-driven decisions on different administrative and governance aspects.
 
 ## Business Question
 Insights and recommendations are provided on the following key areas:
 
-1. **Student registration trends over time**:
+1. **Student registration trends over time**: Evaluation of historical student registration patterns over time, both globally and by region, focusing on demographic and academic records
 
-2. **Region Level Performance and comparison**:
+2. **Student Performance and comparison**:
 
-3. **Talent acquisation program success**:
+3. **Talent Hunt program success**: Analyzing the overall success of the program through distinct domain metrics change over time, such as Student retention Rate (SRT), Diversity index (DI)
 
 
 ![Alt text](Image/Preview.png)
