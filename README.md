@@ -21,8 +21,12 @@ This project aims to visualize academic and registration activities on a sample 
 
 ## DataSet
 
-The data is stored in the `data` folder. Its also publicly available in Bangladesh Primary Education
+IPEMIS Talent aquisition datastructure consists of four tables as seen below : user, geo_lookup, registration, with a total row count of 108127 records.  Its also publicly available in Bangladesh Primary Education.
+
 ![Alt text](Image/IPEMIS.png)
+
+Prior to beginning the analysis, a variety of data cleaning and quality check actions were conducted for quality control and familirazation with the dataset. The script utilized to inspect and perform quality checks can be found here.
+
 ## Code
 
 The code is stored in the `code` folder.
