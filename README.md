@@ -9,7 +9,12 @@ This project thoroughly analyzes and synthesizes the data of an IPEMIS Couching 
 ## Business Question
 Insights and recommendations are provided on the following key areas:
 
-This project aims to visualize academic and registration activities on a sample snapshot of  [Please, follow the link](https://public.tableau.com/views/IPEMISSTUDENTREGISTRATION/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+1. **Student registration trends over time**:
+
+2. **Region Level Performance and comparison**:
+
+3. **Talent acquisation program success**:
+
 
 ![Alt text](Image/Preview.png)
 
@@ -19,7 +24,7 @@ This project aims to visualize academic and registration activities on a sample 
 3. How are the registered students distributed accross the country?
 4. What are the career aspiration they have?
 
-## DataSet
+## Data Structure and cleaning
 
 IPEMIS Talent aquisition datastructure consists of four tables as seen below : user, geo_lookup, registration, with a total row count of 108127 records.  Its also publicly available in Bangladesh Primary Education.
 
@@ -33,4 +38,4 @@ The code is stored in the `code` folder.
 
 ## Report
 
-The report is stored in the `report` folder.
+This project aims to visualize academic and registration activities on a sample snapshot of  [Please, follow the link](https://public.tableau.com/views/IPEMISSTUDENTREGISTRATION/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
