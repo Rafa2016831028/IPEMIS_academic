@@ -22,7 +22,7 @@ This project aims to visualize academic and registration activities on a sample 
 ## DataSet
 
 The data is stored in the `data` folder. Its also publicly available in Bangladesh Primary Education
-
+![Alt text](Image/IPEMIS.png)
 ## Code
 
 The code is stored in the `code` folder.
