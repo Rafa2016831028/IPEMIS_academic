@@ -12,7 +12,7 @@ Insights and recommendations are provided on the following key areas:
 
 1. **Student registration trends over time**: Evaluation of historical student registration patterns over time, both globally and by region, focusing on demographic and academic records
 
-2. **Student Performance and comparison**:
+2. **Student Performance and comparison**: An analysis of different government grant policies and their impact on student performance.
 
 3. **Talent Hunt program success**: Analyzing the overall success of the program through distinct domain metrics change over time, such as Student retention Rate (SRT), Diversity index (DI)
 
@@ -33,9 +33,8 @@ IPEMIS Talent aquisition datastructure consists of four tables as seen below : u
 
 Prior to beginning the analysis, a variety of data cleaning and quality check actions were conducted for quality control and familirazation with the dataset. The script utilized to inspect and perform quality checks can be found here.
 
-## Code
+## Executive Summary
 
-The code is stored in the `code` folder.
 
 ## Report
 
